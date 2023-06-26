@@ -61,7 +61,7 @@ Bienvenido a mi perfil de GitHub.
 ## STATS
 <p align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDW23&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDW23&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=educarmas&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=educarmas&show_icons=true&theme=solarized-light)](https://github.com/educarmas/github-readme-stats)
   
 </p>
