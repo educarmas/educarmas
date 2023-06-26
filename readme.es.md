@@ -1,4 +1,4 @@
-## Hola a tod@s 👋  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/educarmas/educarmas/blob/main/README.en.md)
+## Hola a tod@s 👋  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/educarmas/educarmas/blob/main/readme.en.md)
 
 Soy Desarrollador Web Full Stack. Apasionado del desarrollo y la programación web, he sido capaz de combinar
 conocimientos técnicos, gracias a mi experiencia en el ámbito del trabajo
