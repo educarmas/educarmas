@@ -41,13 +41,8 @@ Bienvenido a mi perfil de GitHub.
  <img src= "https://img.shields.io/badge/-GITHUB-lightgrey?style=for-the-badge&logo=github&logoColor=black"></img>
  </p>
 
-  <p align="center">
- <img src="https://github.com/educarmas/educarmas/assets/126791645/a484c361-2d96-4991-8116-4fda1b1e3f62" alt="docker" width="60" height="60"/>
-  </p>
-
   <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=30&pause=1000&color=4AAAFB&center=true&width=950&height=60&lines=+%22Primero%2C+resuelve+el+problema.+Luego%2C+escribe+el+c%C3%B3digo.%22;+%22El+mejor+mensaje+de+error+es+aquel+que+nunca+aparece.%22;+%22Programar+es+10%25+escribir+c%C3%B3digo+y+90%25+entender+por+qu%C3%A9+no+funciona.%22;%22Los+mejores+programadores+no+siempre+son+los+mejores+en+programaci%C3%B3n%2C;+son+aquellos+que+mejor+trabajan+en+equipo.%22)](https://git.io/typing-svg)
  ## CONTACTO
  
  📫 Puedes contactar conmigo a través de
