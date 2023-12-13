@@ -10,11 +10,7 @@ Welcome to my Github profile.
 
 <br>  
      
- <div align="center">
-  
-  <a href="" target="_blank"><img alt="Icono descargar currículum" src="https://i.ibb.co/KXDhQpJ/cv-1-TEXT.png" /></a>
 
-</div>
 
 
 
