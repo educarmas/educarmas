@@ -17,7 +17,6 @@ Bienvenido a mi perfil de GitHub.
      
  <div align="center">
   
-  <a href="" target="_blank"><img alt="Icono descargar currículum" src="" /></a>
 
 </div>
 
