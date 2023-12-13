@@ -9,7 +9,7 @@ contribuir al desarrollo de iniciativas digitales con impacto social positivo.. 
 Bienvenido a mi perfil de GitHub. 
 <br><br>
   
-- 👉 Actualmente me encuentro realizando un Bootcamp de Desarrollo Web Full Stack, aprendiendo cosas nuevas cada día... 📖 🖥️ 
+- 👉 Terminé en Agosto un Bootcamp de Desarrollo Web Full Stack, aprendiendo cosas nuevas cada día... 📖 🖥️ 
 
 - 👨‍💻 Quiero trabajar como Desarrollador Web Front-End, para poner en práctica mis conocimientos y seguir formándome.
 
